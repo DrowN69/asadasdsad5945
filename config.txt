@@ -1,6 +1,0 @@
-token=NTAzOTU4MTU1NjA5MjQzNjQ4.Dq_Dcg.FYYB79-xW5Cyx4f1_OHYret8tbc
-owner=296047056873848832 
-prefix=*
-game=Waiting
-stayinchannel=true
-songinstatus=true
